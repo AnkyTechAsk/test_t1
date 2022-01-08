@@ -1,0 +1,14 @@
+configName: default
+folderName: test_t1
+format_version: v1.0
+frameworkPath: ..\..\..\..\..\Microchip\Harmony3
+processor: ATSAMD20E17
+projectName: test_t1
+settings:
+  PackageFilter: bsp;core;core_apps_sam_d20;csp;csp_apps_sam_d20;dev_packs;quick_docs;touch
+  FORCE_OPTIMIZATION: 'false'
+  GENERATE_BACKUP: 'true'
+  TRUSTZONE: 'false'
+  CMSISPath: .\dev_packs\arm\CMSIS\5.8.0
+  MERGE_STRATEGY: USER_ALL
+  DFPPath: .\dev_packs\Microchip\SAMD20_DFP\3.4.68\samd20\atdf\ATSAMD20E17.atdf
